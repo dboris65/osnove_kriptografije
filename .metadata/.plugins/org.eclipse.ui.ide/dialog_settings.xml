@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\DigitalniPotpisi"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\IspisAliasaDigPotpisa"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\IspisDigPotpisa"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\Sha256"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\IspisHesAlgoritama"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\ElGamalString"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\RsaString"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\AesBuffCfb"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\AesDatotekaCBC"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\AesDatotekaCTRInv"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\AesDatotekaCTR"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\DesSecretKeyFactory"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\Twofish"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\BlowfishInvDatoteka"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\BlowfishDatoteka"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\ChaChaDatoteka"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\ChaChaBuff"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\DesInv"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\DES"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\AesDatotekaCipInvCipBC256"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\AesDatotekaCipInvCipBC"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\AesDatotekaInvCip"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\AesDatotekaCip"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\KeyAgreementDhTest"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\KeyPairGenerator3"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\KeyPairGenerator2"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\KeyGenerator2"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\KeyGenerator1"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\KeyPairGenerator1"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\OcitajObradiDatoteku"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\SpMreza"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\KeyExpand"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\AesShiftRows"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\AesInvShiftRows"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\PBox"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\AesSbox"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\MiniSBox2"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\MiniSBox"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\SimetricniBlokovskiXor"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\XorBinarno"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\XorInteger"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\XorKarakteri"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\DatatypeConvertor"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\BCHexDecode"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\HexUtils"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\SviAlgoritmi"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\TestUnlimited"/>
+		<item value="C:\Users\boris_BLC_kao_BLC\eclipse_2019-03-workspace_JDK8\CSPLista"/>
+	</list>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+</section>
